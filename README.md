@@ -7,7 +7,7 @@
 
 ### 1️. Clone the Repository
 ```bash
-git clone https://github.com/tumblr-byte/flexifit-ai.git
+git clone https://github.com/Pooja-Vachhad/flexifit-ai.git
 cd flexifit-ai
 ```
 
